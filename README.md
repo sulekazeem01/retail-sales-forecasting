@@ -115,7 +115,7 @@ Future improvements should focus on predicting outcomes using information availa
 
 - `Retail_Sales_Prediction.ipynb` — Complete Python analysis and visualizations
 - `retail_sales_prediction_1000.csv` — Dataset used in the analysis
-- `RETAIL_SALES_PROJECT (3).html` — Earlier project version
+
 - `README.md` — Project documentation
 
 ## Conclusion
